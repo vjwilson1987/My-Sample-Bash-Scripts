@@ -1,2 +1,2 @@
-# my_sample_bash_scripts
+# My Sample Bash Scripts
 Some of my random bash scripts for resume presentation
